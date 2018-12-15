@@ -1,0 +1,360 @@
+
+.tribute_container {
+    width: 1180px;
+    height: 4450px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    position:relative;
+    background-color: #cebcb9;
+}
+
+.header_container {
+    width: 980px;
+    height: 490px;
+    margin-left: 100px;
+    padding-top: 35px;
+
+}
+
+.outline {
+    outline: 10px white solid;
+    outline-offset: 10px;
+}
+
+.text {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    position: absolute;
+    font-size: 45px;
+    z-index: 100;
+    top: -10px;
+    left: 105px;
+}
+
+.vl {
+    border-left: 10px solid white;
+    height: 3800px;
+    margin-left: 295px;
+    margin-top: 15px;
+    position: absolute;
+}
+
+.timeline {
+    width: 980px;
+    height: 1500px;
+}
+
+.decades {
+    width: 325px;
+    height: 4500px;
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 75px;
+    font-weight: bold;
+    margin-left: 90px;
+}
+
+.info_head {
+    width: 450px;
+    height: 4500px;
+    font-family: 'Raleway', sans-serif;
+    color: #a492a6;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 350px;
+    font-weight: bold;
+}
+
+.info {
+    width: 450px;
+    height: 4500px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    margin-left: 350px;
+}
+
+.images {
+    width: 300px;
+    height: 4500px;
+    position: absolute;
+    margin-left: 830px;
+}
+
+.footer {
+    width: 1020px;
+    height: 75px;
+    outline: 10px solid white;
+    top: 4350px;
+    left: 80px;
+    position: absolute;
+}
+
+button {
+    background-color: #a492a6;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-left: 260px;
+    margin-top: 13px;
+    position: absolute;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #cebcb9;
+    text-decoration: none;
+}
+
+.facebook {
+    margin-left: 600px;
+    position: absolute;
+    margin-top: 5px;
+
+}
+
+.twitter {
+    position: absolute;
+    margin-left: 670px;
+    margin-top: 5px;
+}
+
+
+#image_1 {
+    top: 100px;
+}
+
+
+#head_1 {
+    top: 540px;
+}
+
+#info_1 {
+    top: 590px;
+}
+
+#head_2 {
+    top: 660px;
+}
+
+#info_2 {
+    top: 710px;
+}
+
+#head_3 {
+     top: 740px;
+ }
+
+#info_3 {
+    top: 790px;
+}
+
+#head_4 {
+    top: 840px;
+}
+
+#info_4 {
+    top: 890px;
+}
+#head_5 {
+    top: 980px;
+}
+
+#info_5 {
+    top: 1030px;
+}
+#head_6 {
+    top: 1100px;
+}
+
+#info_6 {
+    top: 1150px;
+}
+
+#head_7 {
+    top: 1200px;
+}
+
+#info_7 {
+    top: 1250px;
+}
+
+#head_8 {
+    top: 1340px;
+}
+
+#info_8 {
+    top: 1390px;
+}
+
+#head_9 {
+    top: 1490px;
+}
+
+#info_9 {
+    top: 1540px;
+}
+
+#head_10 {
+    top: 1600px;
+}
+
+#info_10 {
+    top: 1650px;
+}
+
+#head_11 {
+    top: 1750px;
+}
+
+#info_11 {
+    top: 1800px;
+}
+
+#head_12 {
+    top: 1860px;
+}
+
+#info_12 {
+    top: 1910px;
+}
+
+#head_13 {
+    top: 1990px;
+}
+
+#info_13 {
+    top: 2040px;
+}
+
+#head_14 {
+    top: 2100px;
+}
+
+#info_14 {
+    top: 2150px;
+}
+
+#head_15 {
+    top: 2230px;
+}
+
+#info_15 {
+    top: 2280px;
+}
+
+#head_16 {
+    top: 2410px;
+}
+
+#info_16 {
+    top: 2460px;
+}
+
+#head_17 {
+    top: 2520px;
+}
+
+#info_17 {
+    top: 2570px;
+}
+
+#head_18 {
+    top: 2670px;
+}
+
+#info_18 {
+    top: 2720px;
+}
+
+#head_19 {
+    top: 2840px;
+}
+
+#info_19 {
+    top: 2890px;
+}
+
+#head_20 {
+    top: 2950px;
+}
+
+#info_20 {
+    top: 3000px;
+}
+
+#head_21 {
+    top: 3080px;
+}
+
+#info_21 {
+    top: 3130px;
+}
+
+#head_22 {
+    top: 3210px;
+}
+
+#info_22 {
+    top: 3260px;
+}
+
+#head_23 {
+    top: 3340px;
+}
+
+#info_23 {
+    top: 3390px;
+}
+
+#head_24 {
+    top: 3510px;
+}
+
+#info_24 {
+    top: 3560px;
+}
+
+#head_25 {
+    top: 3690px;
+}
+
+#info_25 {
+    top: 3740px;
+}
+
+#head_26 {
+    top: 3840px;
+}
+
+#info_26 {
+    top: 3890px;
+}
+
+#head_27 {
+    top: 4040px;
+}
+
+#info_27 {
+    top: 4090px;
+}
+
+#head_28 {
+    top: 4150px;
+}
+
+#info_28 {
+    top: 4200px;
+}
